@@ -7,5 +7,6 @@ void main(){
   List<String> allPeople = [...name ,...friends];
   
   
+  
   stdout.write(allPeople);
 }
